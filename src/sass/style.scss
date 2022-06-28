@@ -1,3 +1,5 @@
-.btn-list{
-    font-family: 'Courier New', Courier, monospace;
-}
+@import 'base/variables';
+
+@import 'page/about';
+@import 'page/landing-page';
+@import 'page/project';
