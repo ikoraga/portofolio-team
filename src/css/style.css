@@ -1,1 +1,18 @@
-/*# sourceMappingURL=style.css.map */
+.btn-primary {
+  border: 1px solid salmon;
+  cursor: pointer;
+  margin: 2em;
+  padding: 1em 2em;
+  font-weight: bold;
+  background-color: salmon;
+  color: salmon;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: cyan;
+}/*# sourceMappingURL=style.css.map */
